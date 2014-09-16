@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_grey">#D0D0D0</color>
+    <color name="button_blue_positive">#33B5E5</color>
+    <color name="button_blue_negative">#56B8D8</color>
+    <color name="highlight_yello">#FFBB33</color>
+</resources>

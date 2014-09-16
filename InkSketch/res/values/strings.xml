@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- general -->
+    <string name="app_name">InkSketch</string>
+    <string name="button_title_cancel">Cancel</string>
+
+    <!-- strings for activity_main -->
+    <string name="button_title_compile">Compile</string>
+    <string name="button_title_clear">Clear</string>
+
+    <!-- strings for alert_dialog_image_preview -->
+    <string name="button_title_send">Send</string>
+
+</resources>
